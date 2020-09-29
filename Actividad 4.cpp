@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Este comentario es para tener excusa y hacer un commit
 void mostrar(int n, char arreglo[]){
 	int i;
 	for(i=0;i<n; i++){
